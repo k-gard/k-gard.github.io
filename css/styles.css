@@ -6,6 +6,20 @@
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+body {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+h1,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Nunito', sans-serif !important;
+}
+
 
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
@@ -16,6 +30,7 @@
 
 .gpa {
     color: #000;
+    font-family: 'Nunito', sans-serif !important;
 }
 
 .row-m-t {
