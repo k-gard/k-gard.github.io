@@ -6,12 +6,13 @@
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
 */
 
-@import url('//fonts.googleapis.com/css2?family=Nunito&display=swap');
-@import url('//fonts.googleapis.com/css2?family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
 body {
     font-family: 'Nunito', sans-serif !important;
 }
 
+h1,
 h3,
 h4,
 h5,
@@ -71,6 +72,12 @@ h6 {
 
 #about-container {
     background-image: url("../assets/img/texture.png");
+    background-color: #cccccc;
+    background-size: cover;
+}
+
+#contact-container {
+    background-image: url("../assets/img/contact.png");
     background-color: #cccccc;
     background-size: cover;
 }
