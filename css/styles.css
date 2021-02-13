@@ -6,8 +6,8 @@
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+@import url('//fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('//fonts.googleapis.com/css2?family=Potta+One&display=swap');
 body {
     font-family: 'Nunito', sans-serif !important;
 }
